@@ -36,5 +36,7 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
     System.out.println("devops id my life");
+    System.out.println("getting some good knowledge in Git");
+    System.out.println("jenkins from starting we are learning in good flow.");
   }
 }
