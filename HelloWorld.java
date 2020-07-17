@@ -40,5 +40,6 @@ public class HelloWorld {
     System.out.println("jenkins from starting we are learning in good flow.");
     System.out.println("jenkins need more time to complete ");
     System.out.println("jenkins session got cancelled ");
+    System.out.println("jenkins session got scheduled to Monday ");
   }
 }
